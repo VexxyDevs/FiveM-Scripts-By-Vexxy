@@ -5,6 +5,8 @@ The funniest scripts made by me
 
 put this in your server.cfg
 
-ensure thing
+ensure thing  
+
 ensure PHX
+
 ensure OF 
